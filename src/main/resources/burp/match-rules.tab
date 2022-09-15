@@ -33,3 +33,4 @@ File \"[A-Za-z0-9\-_\./]*\", line [0-9]+, in	0	Python	Low	Certain
 \.groovy:[0-9]+	0	Groovy	High	Certain
 \.lang\.([A-Za-z0-9_])+\.([A-Za-z0-9_]+)Exception	0	Java	Medium	Firm
 \.lang\.([A-Za-z0-9_]+)Exception	0	Java	Medium	Firm
+"extensions":\{"code	0	GraphQL	Low	Certain
